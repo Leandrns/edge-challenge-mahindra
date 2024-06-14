@@ -35,7 +35,7 @@ Para isso, o grupo CLIRV Technologies está desenvolvendo um site com uma interf
 - <p>1 Display OLED ssd 1306</p>
 - <p>1 Half-Breadboard</p>
 - <p>1 GPS Fake-breakout</p>
-- <p>10 Resistores</p>
+- <p>10 Resistores de 220Ω</p>
 - <p>42 cabos Jumper</p>
 
 <h3>Foram usados os seguintes arquivos:</h3>
