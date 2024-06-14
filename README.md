@@ -24,7 +24,7 @@ A empresa Tech Mahindra, em parceria com a FIAP, lançou um desafio para os alun
 Para isso, o grupo CLIRV Technologies está desenvolvendo um site com uma interface rica em informações sobre a Fórmula E, incluindo notícias, curiosidades, estatísticas, regras, circuitos e um calendário de corridas. O diferencial do site será um sistema gamificado, o "HitRace Fantasy FE", onde os usuários podem montar suas equipes com base em um sistema de compra com moedas fictícias e ganhar pontos conforme o desempenho real dos pilotos, motores, equipes e técnicos escolhidos.
 
 ## Funcionalidades
-<p>Nesse protótipo, vamos demonstrar a coleta de dados dos carros nas corridas em tempo real para nossa plataforma, sendo a quantidade de bateria do carro, velocidade e posição dos pilotos na pista. </p>
+<p>Neste protótipo, vamos demonstrar a coleta de dados dos carros de corrida em tempo real para nossa plataforma. Os dados incluem a quantidade de bateria, a velocidade dos carros e a posição dos pilotos na pista. </p>
 
 ## Componentes
 <h3>Foram usados os seguintes componentes disponíveis na plataforma Wokwi:</h3>
@@ -37,6 +37,14 @@ Para isso, o grupo CLIRV Technologies está desenvolvendo um site com uma interf
 - <p>1 GPS Fake-breakout</p>
 - <p>10 Resistores</p>
 - <p>42 cabos Jumper</p>
+
+<h3>Foram usados os seguintes arquivos:</h3>
+
+- <p>main.ino</p>
+- <p>diagram.json</p>
+- <p>NMEA.cpp</p>
+- <p>NMEA.h</p>
+- <p>gps-fake.chip.c</p>
 
 
 ## Requisitos
